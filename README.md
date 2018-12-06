@@ -5,7 +5,7 @@
 
 
 2 Here is a visualization of the basic data that will be used and analyzed later. College Prices are definitely rising, at an extremely high rate. This rate is so high, that the price of college has begun to exceed the mean income for the bottom 20% of income in this country.
-
+![alt text](https://github.com/peralegh/480/blob/master/CollegePricevsIncome.png "College Prices and Income Group Wages")
 3. Below is the rate of each income groups' college enrollment after high school, along with their predicted values based on {{{}}}}}
 
 INCLUDE DATA LINKS
