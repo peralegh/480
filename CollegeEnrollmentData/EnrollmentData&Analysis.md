@@ -8,7 +8,7 @@ We used linear regression as our model, since we wanted to see mostly change ove
 
 First we will look at the rising college prices, and the rate they are increasing. This price includes tuition and r&b.
 
-![alt_text](https://github.com/peralegh/480/blob/master/College%20Price.png "College Price")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/College%20Price.PNG "College Price")
 
 Around the year 2000, the growth rate of college prices has sudden growth, going from nearly +$200 per year to +$400 per year.
 
