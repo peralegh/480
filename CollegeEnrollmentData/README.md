@@ -6,7 +6,8 @@ Factors that will be investigated:
 - College prices vs each income levels wages
 - Perdicted enrollment for each income level
 - Whether enrollment is effected by recession 
-- 
+
+We will use these to determine if the investigated factors do have an effect on college enrollment.
 
 SOURCES FOR DATA
 find links fo wiki- isRecession isExpansion
