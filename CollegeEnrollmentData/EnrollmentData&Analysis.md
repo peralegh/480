@@ -2,6 +2,8 @@
 
 We are investigating the relationship between the various income groups' college enrollment percentage and certain statistics related to economic data. We want to see what economic factors have the greatest effect on college enrollment rates.
 
+We used linear regression as our model, since we wanted to see mostly change over time. Year was always our X axis, our Y axis changed depending on the variable we wanted to see change.
+
 ## Part 1: College Prices vs Wages
 
 First we will look at the rising college prices, and the rate they are increasing. This price includes tuition and r&b.
