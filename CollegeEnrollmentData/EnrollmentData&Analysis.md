@@ -15,7 +15,7 @@ Around the year 2000, the growth rate of college prices has sudden growth, going
 
 College Prices are definitely at an high rate. Now we want to see if wages are able to grow along the same rate. The next chart will look at each income classes wages and how they compare to these college prices.
 
-![alt text](https://github.com/peralegh/480/blob/master/CollegePricevsIncome.png "College Prices and Income Group Wages")
+![alt text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/CollegePricevsIncome.PNG "College Prices and Income Group Wages")
 
 This chart showcases the severity that college prices are beginning to increase. This rate is so high, that in 2001 the price of college has began to exceed the mean income for the bottom 20% of income in this country.
 
