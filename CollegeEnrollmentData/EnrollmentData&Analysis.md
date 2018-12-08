@@ -54,11 +54,11 @@ Low and mid income mostly have consitancy, dropping whenever there is a recessio
 
 Here we have the low income enrollment with recession by year & the predicted values.
 
-![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Low Income with Predictions")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/LowEnrollmentRecession.png "Percent Enrollment of Low Income with Predictions and Recession Data")
 
 Here we have the mid income enrollment with recession by year & the predicted values.
 
-![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions and Recession Data")
 
 
 ### Student Loans/Aid
