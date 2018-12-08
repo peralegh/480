@@ -9,6 +9,8 @@ Factors that will be investigated:
 
 We will use these to determine if the investigated factors do have an effect on college enrollment.
 
+Analysis found in EnrollmentData&Analysis.md
+
 Data Quality: High, Very reputable sources
 
 Labels: College Price, Year, Lower Class Income, Middle Class Income, Upper Class Income, Lower Class Enrollment, Middle Class Enrollment, Upper Class Enrollment
