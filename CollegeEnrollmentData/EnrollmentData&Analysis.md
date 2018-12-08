@@ -33,6 +33,8 @@ Here we have the low income enrollment by year with predicted values.
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/LowIncomeWPrediction.png "Percent Enrollment of Low Income with Predictions")
 
+Low Income enrollment is very volitile, and from a glance it is difficult to determine if college price has any correlation with it.
+
 Here we have the mid income enrollment by year with predicted values.
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
@@ -47,6 +49,8 @@ We wanted to look at how the current state of the economy effects each income le
 The first chart is a plot of enrollment rate at each income. The difference is we are highlighting when a recession is occouring so we can view how the enrollment rate changes during that period.
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/enrollWrecession.png "Percent Enrollment at Each Income Level With Recession")
+
+Low and mid income mostly have consitancy, dropping whenever there is a recession. High income is interesting, as they have large increses in enrollment percent during these periods. This is likely due to recessions hitting middle and lower classes harder, and high income student being far more likely to be able to afford college.
 
 Here we have the low income enrollment with recession by year & the predicted values.
 
