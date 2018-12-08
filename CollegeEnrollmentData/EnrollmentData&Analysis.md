@@ -56,11 +56,16 @@ Here we have the low income enrollment with recession by year & the predicted va
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/LowEnrollmentRecession.png "Percent Enrollment of Low Income with Predictions and Recession Data")
 
+Again, low income enrollment has very little correlation with the data we have chosen to use. It is difficult to see why low income enrollment rate changes the way it does.
+
 Here we have the mid income enrollment with recession by year & the predicted values.
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidEnrollmentRecession.png "Percent Enrollment of Middle Income with Predictions and Recession Data")
 
-
-### Student Loans/Aid
+Middle Income predicted values seem to be heavily influenced by recession data. The only significant drops in the predicted values happen in on the recession years.
 
 ## Part 4: Conclusion
+
+From the data collected we have concluded that the middle class enrollment is the most effected by the changes in the economy. Whether it is changes in college prices or the state of overall economy there appeared to be some correlation between it and middle class enrollment. Lower class enrollment appears to have other factors that have a greater effect on it, and the upper class thrives when the other classes are struggling.
+
+We could have improved our research if we could have obtained individual student data for more accurate predictions on enrollment. Also we could have seen how much each student at certain income levels relied on student loans as well.
