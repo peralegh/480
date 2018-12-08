@@ -32,6 +32,12 @@ The previous data makes low and mid incomes far more interesting to study. So th
 ## Part 3: Looking at Outside Factors
 
 ### Recessions
+We wanted to look at how the current state of the economy effects each income levels enrollment rate.
+
+The first chart is a plot of enrollment rate at each income. The difference is we are highlighting when a recession is occouring so we can view how the enrollment rate changes during that period.
+
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/EnrollmentIncome.png "Percent Enrollment at Each Income Level")
+
 ### Student Loans/Aid
 
 ## Part 4: Conclusion
