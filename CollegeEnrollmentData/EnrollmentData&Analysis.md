@@ -48,6 +48,14 @@ The first chart is a plot of enrollment rate at each income. The difference is w
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/enrollWrecession.png "Percent Enrollment at Each Income Level With Recession")
 
+Here we have the low income enrollment with recession by year & the predicted values.
+
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Low Income with Predictions")
+
+Here we have the mid income enrollment with recession by year & the predicted values.
+
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
+
 
 ### Student Loans/Aid
 
