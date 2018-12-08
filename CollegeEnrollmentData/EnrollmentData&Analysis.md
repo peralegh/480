@@ -1,4 +1,4 @@
-# College Enrollment per Income Group vs. Various Factors
+# College Enrollment per Income Group vs. Economic Factors
 
 We are investigating the relationship between the various income groups' college enrollment percentage and certain statistics related to economic data. We want to see what economic factors have the greatest effect on college enrollment rates.
 
@@ -43,7 +43,7 @@ Here we have the mid income enrollment by year with predicted values.
 
 This shows that the best relitve attendance of college for mid income students happened right before 2000 as the actual values were far above the predicted ones. This shows that the increase of college prices most likely had an effect on middle class enrollment.
 
-## Part 3: Looking at Outside Factors
+## Part 3: Looking at How General Economic Change Can Effect Enrollment 
 
 ### Recessions
 We wanted to look at how the current state of the economy effects each income levels enrollment rate.
