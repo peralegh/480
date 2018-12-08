@@ -1,6 +1,8 @@
 # College Enrollment per Income Group vs. Various Factors
 
-1 We are investigating the relationship between the various income groups' college enrollment percentage and certain statistics related to economic data.
+We are investigating the relationship between the various income groups' college enrollment percentage and certain statistics related to economic data. We want to see what economic factors have the greatest effect on college enrollment rates.
+
+## Part 1: College Prices vs Wages
 
 First we will look at the rising college prices, and the rate they are increasing. This price includes tuition and r&b.
 ![alt_text](https://github.com/peralegh/480/blob/master/College%20Price.png "College Price")
