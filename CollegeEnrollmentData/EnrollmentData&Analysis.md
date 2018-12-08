@@ -36,7 +36,7 @@ We wanted to look at how the current state of the economy effects each income le
 
 The first chart is a plot of enrollment rate at each income. The difference is we are highlighting when a recession is occouring so we can view how the enrollment rate changes during that period.
 
-![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/EnrollmentIncome.png "Percent Enrollment at Each Income Level")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/enrollWrecession.png "Percent Enrollment at Each Income Level With Recession")
 
 ### Student Loans/Aid
 
