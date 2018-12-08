@@ -13,7 +13,7 @@ Data Quality: High, Very reputable sources
 
 Labels: College Price, Year, Lower Class Income, Middle Class Income, Upper Class Income, Lower Class Enrollment, Middle Class Enrollment, Upper Class Enrollment
 
-Visualizations: Cluster (scatter) plot for viewing attendance for each income level, line graph for cluster change over time, income change, and college price changes. Taking this we will overlay these line graphs for analysis purposes.
+Visualizations: Linear Regressions of college prices, each income level overlayed, each enrollment % overlayed, middle and lower class enrollment with predictions, middle and lower class enrollment with predictions and if it was a recession or not that year.
 
 SOURCES FOR DATA
 find links fo wiki- isRecession isExpansion
