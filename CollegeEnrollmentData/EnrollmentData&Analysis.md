@@ -29,9 +29,15 @@ To know surprise, the more money one has the higher chance one has to go to coll
 
 The previous data makes low and mid incomes far more interesting to study. So the following data is going to show their predicted values using linear regression. This will point out the more interesting years for us to look into further.
 
+Here we have the low income enrollment by year with predicted values.
+
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Low Income with Predictions")
+
 Here we have the mid income enrollment by year with predicted values.
+
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
 
+This shows that the best relitve attendance of college for mid income students happened right before 2000 as the actual values were far above the predicted ones. This shows that the increase of college prices most likely had an effect on middle class enrollment.
 
 ## Part 3: Looking at Outside Factors
 
@@ -42,7 +48,6 @@ The first chart is a plot of enrollment rate at each income. The difference is w
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/enrollWrecession.png "Percent Enrollment at Each Income Level With Recession")
 
-This shows that the best relitve attendance of college for mid income students happened right before 2000 as the actual values were far above the predicted ones. This shows that the increase of college prices most likely had an effect on middle class enrollment.
 
 ### Student Loans/Aid
 
