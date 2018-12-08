@@ -31,7 +31,7 @@ The previous data makes low and mid incomes far more interesting to study. So th
 
 Here we have the low income enrollment by year with predicted values.
 
-![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Low Income with Predictions")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/LowIncomeWPrediction.png "Percent Enrollment of Low Income with Predictions")
 
 Here we have the mid income enrollment by year with predicted values.
 
