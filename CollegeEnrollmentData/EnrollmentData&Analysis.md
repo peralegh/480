@@ -19,7 +19,7 @@ This chart showcases the severity that college prices are beginning to increase.
 
 ## Part 2: Enrollment Rates and Perdicted Values
 
-Next we will look at each income levels college enrollment rate. We want to see the perdicted values for each of the enrollment rates using linear regression.
+Next we will look at each income levels college enrollment rate. We want to see the predicted values for each of the enrollment rates using linear regression.
 
 First we are looking at each income levels enrollment rate, this is depicted by pecent of the class enrolled in college.
 
@@ -27,8 +27,9 @@ First we are looking at each income levels enrollment rate, this is depicted by 
 
 To know surprise, the more money one has the higher chance one has to go to college. The intesting thing about this is the sudden rapid increase of low income college students since 2013. In 2015, low income students had a better chance to get into college than middle income for the first time.
 
-The previous data makes low and mid incomes far more interesting to study. So the following data is going to show their perdicted values using linear regression. This will point out the more interesting years for us to look into further.
+The previous data makes low and mid incomes far more interesting to study. So the following data is going to show their predicted values using linear regression. This will point out the more interesting years for us to look into further.
 
+Here we have the mid income enrollment by year with predicted values.
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
 
 
