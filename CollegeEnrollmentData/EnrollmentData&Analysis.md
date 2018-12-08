@@ -22,3 +22,10 @@ This chart showcases the severity that college prices are beginning to increase.
 Next we will look and each income levels college enrollment rate by percent of class enrolled. We want to see the perdicted values for each of the enrollment rates using linear regression.
 
 Below is the rate of each income groups' college enrollment after high school, along with their predicted values based on {{{}}}}}
+
+## Part 3: Looking at Outside Factors
+
+### Recessions
+### Student Loans/Aid
+
+## Part 4: Conclusion
