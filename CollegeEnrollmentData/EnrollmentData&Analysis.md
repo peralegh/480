@@ -29,6 +29,9 @@ To know surprise, the more money one has the higher chance one has to go to coll
 
 The previous data makes low and mid incomes far more interesting to study. So the following data is going to show their perdicted values using linear regression. This will point out the more interesting years for us to look into further.
 
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions")
+
+
 ## Part 3: Looking at Outside Factors
 
 ### Recessions
