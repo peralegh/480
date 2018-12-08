@@ -1,3 +1,5 @@
+# College Enrollment per Income Group vs. Various Factors
+
 1 We are investigating the relationship between the various income groups' college enrollment percentage and certain statistics related to economic data.
 ![alt_text](https://github.com/peralegh/480/blob/master/College%20Price.png "College Price")
 
