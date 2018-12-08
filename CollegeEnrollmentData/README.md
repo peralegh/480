@@ -9,6 +9,12 @@ Factors that will be investigated:
 
 We will use these to determine if the investigated factors do have an effect on college enrollment.
 
+Data Quality: High, Very reputable sources
+
+Labels: College Price, Year, Lower Class Income, Middle Class Income, Upper Class Income, Lower Class Enrollment, Middle Class Enrollment, Upper Class Enrollment
+
+Visualizations: Cluster (scatter) plot for viewing attendance for each income level, line graph for cluster change over time, income change, and college price changes. Taking this we will overlay these line graphs for analysis purposes.
+
 SOURCES FOR DATA
 find links fo wiki- isRecession isExpansion
 
