@@ -42,6 +42,8 @@ The first chart is a plot of enrollment rate at each income. The difference is w
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/enrollWrecession.png "Percent Enrollment at Each Income Level With Recession")
 
+This shows that the best relitve attendance of college for mid income students happened right before 2000 as the actual values were far above the predicted ones. This shows that the increase of college prices most likely had an effect on middle class enrollment.
+
 ### Student Loans/Aid
 
 ## Part 4: Conclusion
