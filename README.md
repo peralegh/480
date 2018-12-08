@@ -8,5 +8,14 @@
 ![alt text](https://github.com/peralegh/480/blob/master/CollegePricevsIncome.png "College Prices and Income Group Wages")
 3. Below is the rate of each income groups' college enrollment after high school, along with their predicted values based on {{{}}}}}
 
-INCLUDE DATA LINKS
+SOURCES FOR DATA
 find links fo wiki- isRecession isExpansion
+
+https://nces.ed.gov/programs/digest/d17/tables/dt17_302.30.asp?current=yes
+Percentage of recent high school completers enrolled in college, by income level, 1975 through 2016
+
+https://trends.collegeboard.org/college-pricing/figures-tables/tuition-fees-room-and-board-over-time
+Average college prices for public and private schools, 2008 - 2018
+
+https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+Average income for each race and class of income (lower, middle, high)
