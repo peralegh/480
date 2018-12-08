@@ -58,7 +58,7 @@ Here we have the low income enrollment with recession by year & the predicted va
 
 Here we have the mid income enrollment with recession by year & the predicted values.
 
-![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidIncomePrediction.png "Percent Enrollment of Middle Income with Predictions and Recession Data")
+![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/MidEnrollmentRecession.png "Percent Enrollment of Middle Income with Predictions and Recession Data")
 
 
 ### Student Loans/Aid
