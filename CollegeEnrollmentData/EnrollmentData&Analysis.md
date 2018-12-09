@@ -27,7 +27,7 @@ First we are looking at each income levels enrollment rate, this is depicted by 
 
 ![alt_text](https://github.com/peralegh/480/blob/master/CollegeEnrollmentData/EnrollmentIncome.png "Percent Enrollment at Each Income Level")
 
-To now surprise, the more money one has the higher chance one has to go to college. The intesting thing about this is the sudden rapid increase of low income college students since 2013. In 2015, low income students had a better chance to get into college than middle income for the first time.
+To no surprise, the more money one has the higher chance one has to go to college. The intesting thing about this is the sudden rapid increase of low income college students since 2013. In 2015, low income students had a better chance to get into college than middle income for the first time.
 
 The previous data makes low and mid incomes far more interesting to study. So the following data is going to show their predicted values using linear regression. This will point out the more interesting years for us to look into further.
 
