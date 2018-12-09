@@ -68,6 +68,6 @@ Middle Income predicted values seem to be heavily influenced by recession data. 
 
 ## Part 4: Conclusion
 
-From the data collected we have concluded that the middle class enrollment is the most effected by the changes in the economy. Whether it is changes in college prices or the state of overall economy there appeared to be some correlation between it and middle class enrollment. Lower class enrollment appears to have other factors that have a greater effect on it, and the upper class thrives when the other classes are struggling.
+From the data collected we have concluded that the middle class(Middle 60% of income) enrollment is the most effected by the changes in the economy. Whether it is changes in college prices or the state of overall economy there appeared to be some correlation between it and middle class enrollment. Lower class enrollment appears to have other factors that have a greater effect on it, such as entering the workforce immediately out of economic need, and the upper class thrives when the other classes are struggling.
 
-We could have improved our research if we could have obtained individual student data for more accurate predictions on enrollment. Also we could have seen how much each student at certain income levels relied on student loans as well.
+We could have improved our research if we could have obtained individual student data for more accurate predictions on enrollment. A statistic we were looking to find, and compare with low-income enrollment would be the amounot of high-school grads who immediately enter the military out of economic need. Also we could have seen how much each student at certain income levels relied on student loans as well.
